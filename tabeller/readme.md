@@ -1,8 +1,39 @@
-Her kan du finde de forskellige tabeler til GeoFA
-de er opdelt i d_basis og i d_spec
+# GeoFA Tabeller
+
+Her kan du finde de forskellige tabeller til GeoFA. Tabellerne er opdelt i `d_basis` og `d_spec`.
+
+## Indholdsfortegnelse
+1. [d_basis](#d_basis)
+2. [d_spec](#d_spec)
+3. [Installation](#installation)
+4. [Brug](#brug)
+5. [Bidrag](#bidrag)
+6. [Licens](#licens)
 
 ## d_basis 
-indeholder alle d_basis tabeller, dog ikke d_vejnavn og d_postnr, disse skal laves med de to dertil udviklet python scripts
+`d_basis` indeholder alle `d_basis` tabeller, dog ikke `d_vejnavn` og `d_postnr`, disse skal laves med de to dertil udviklede Python scripts.
 
 ## d_spec
-indeholder alle d_####_?? tabeller til de forskellige temaer
+`d_spec` indeholder alle `d_####_??` tabeller til de forskellige temaer.
+
+## Installation
+For at installere projektet, følg disse trin:
+1. Klon repositoryet: `git clone https://github.com/magr665/GeoFA.git`
+2. Naviger til projektmappen: `cd GeoFA`
+3. Installer nødvendige afhængigheder: `pip install -r requirements.txt`
+
+## Brug
+For at bruge tabellerne:
+1. Kør de relevante Python scripts for at generere `d_vejnavn` og `d_postnr` tabeller.
+2. Naviger til de ønskede tabeller i `d_basis` og `d_spec` mapperne.
+
+## Bidrag
+Vi byder bidrag velkommen! For at bidrage til projektet, følg venligst disse trin:
+1. Fork repositoryet.
+2. Opret en ny branch: `git checkout -b feature/dit-feature-navn`
+3. Commit dine ændringer: `git commit -m 'Tilføj feature'`
+4. Push til branchen: `git push origin feature/dit-feature-navn`
+5. Opret en pull request.
+
+## Licens
+Dette projekt er licenseret under MIT-licensen. Se [LICENSE](../LICENSE) filen for detaljer.
