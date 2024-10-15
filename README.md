@@ -1,22 +1,21 @@
 ## Indholdsfortegnelse
-1. [d_basis](#d_basis)
+1. [Python](#Python)
 2. [tabeller]
     1. [d_basis](#d_basis)
     2. [d_spec](#d_spec)
-3. [Python](#Python)
-4. [Installation](#installation)
-5. [Brug](#brug)
-6. [Bidrag](#bidrag)
-7. [Licens](#licens)
+3. [Installation](#installation)
+4. [Brug](#brug)
+5. [Bidrag](#bidrag)
+6. [Licens](#licens)
+
+## Python
+Indeholder diverse scripts til bl.a. at hente data fra DAWA api
 
 ## d_basis
 `d_basis` indeholder alle `d_basis` tabeller, dog ikke `d_vejnavn` og `d_postnr`, disse skal laves med de to dertil udviklede Python scripts.
 
 ## d_spec
 `d_spec` indeholder alle `d_####_??` tabeller til de forskellige temaer.
-
-## Python
-Indeholder diverse scripts til bl.a. at hente data fra DAWA api
 
 ## Installation
 For at installere projektet, følg disse trin:
