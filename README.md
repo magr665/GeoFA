@@ -1,0 +1,1 @@
+Hjælpefiler til GeoFA
