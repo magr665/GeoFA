@@ -1,0 +1,6 @@
+"havn_type_kode";"havn_type";"aktiv";"begrebsdefinition"
+1;"Erhvervshavn";1;"Havneareal for erhvervshavn med egen ejer/administrator"
+2;"Lystbådehavn";1;"Havneareal for lystbådehavn med egen ejer/administrator"
+3;"Erhvervs- og lystbådehavn";1;"Havneareal for både erhvervshavn og lystbådehavn som administreres samlet"
+8;"Andet";1;"Ingen af de andre passer entydigt på objektet."
+9;"Uoplyst";1;"Mangler viden for at kunne udfylde feltet."

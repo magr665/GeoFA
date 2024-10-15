@@ -1,0 +1,7 @@
+"tilsynstrae_kode";"tilsynstrae";"aktiv";"begrebsdefinition"
+1;"Sikkert - ikke tilsyn";1;"Kan anvendes til alle træer, der ikke er under tilsyn"
+2;"Risikotræ m. tilsynspligt";1;"Anvendes hvor træet på sigt kan være en fare for mennesker, trafik, maskinel og hvor kommunen har pligt til at føre tilsyn"
+3;"Risikotræ u. tilsynspligt";1;""
+4;"OBS-træ";1;""
+8;"Tilsyn af anden grund";1;""
+9;"Ved ikke";1;""

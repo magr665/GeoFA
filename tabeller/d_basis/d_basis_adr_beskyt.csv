@@ -1,0 +1,6 @@
+"adr_beskyt_kode";"adr_beskyt";"aktiv";"begrebsdefinition"
+"0";"Ingen adressebeskyttelse";1;"Ingen adressebeskyttelse"
+"A";"Ejers navn og ejendomsoplysninger overføres til vejvisere";1;"Ejers navn og ejendomsoplysninger overføres til vejvisere"
+"B";"Adressen er beskyttet i CPR";1;"Adressen er beskyttet i CPR"
+"E";"Der overføres ikke oplysning fra ESR til vejvisere";1;"Der overføres ikke oplysning fra ESR til vejvisere"
+"L";"Adressen må ikke optages i vejvisere";1;"Adressen må ikke optages i vejvisere"

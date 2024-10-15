@@ -1,0 +1,7 @@
+"hierarki_k";"hierarki";"aktiv";"begrebsdefinition"
+1;"Hovedrute";1;"Den primære rute."
+2;"Sløjfe";1;"Ekstra sløjfer på en hovedrute."
+3;"Genvej";1;"Forbindelse som afkorter en hovedrute."
+4;"Forbindelsesrute";1;"Forbindelse mellem hovedruter eller til en hovedrute, en facilitet eller seværdighed."
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Mangler viden om hierarki"

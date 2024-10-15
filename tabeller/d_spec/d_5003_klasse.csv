@@ -1,0 +1,6 @@
+"klasse_kode";"klasse";"aktiv";"Begrebsdefinition"
+1;"Interne markdræn";1;"Hoveddrænledningen der kun dækker en mark. (Dækkes flere marker er det et rørlagt vandløb!)"
+2;"Sidegren markdræn";1;"Sidegrene til et dræn. Ligger ofte lidt som sildeben. Ender typisk blindt eller med en enkelt"
+3;"Omfangsdræn";1;"Benyttes typisk ved huse med kældre for at holde fugt ude."
+8;"Andet";1;"Klasse hvor andet ikke er dækkende."
+9;"Ukendt";1;"Fået oplyst der er et dræn, men klassen er ukendt. Typisk fra borger eller gammelt register."

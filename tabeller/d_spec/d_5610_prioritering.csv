@@ -1,0 +1,4 @@
+"prior_k";"prior";"aktiv";"begrebsdefinition"
+1;"Høj";1;"Hvis ruten hos myndighed/i samarbejdet har en høj prioritering angives dette. Supplerende og evt. alternativ oplysning til 'Finansiering'."
+2;"Middel";1;"Hvis ruten hos myndighed/i samarbejdet har en middel prioritering angives dette. Supplerende og evt. alternativ oplysning til 'Finansiering'."
+3;"Lav";1;"Hvis ruten hos myndighed/i samarbejdet har en lav prioritering angives dette. Supplerende og evt. alternativ oplysning til 'Finansiering'."

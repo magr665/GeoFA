@@ -1,0 +1,6 @@
+"tilladelse_type_kode";"tilladelse_type";"aktiv";"begrebsdefinition"
+1;"Salg";1;"Hvor der er givet tilladelse til salg af fyrværkeri til privatpersoner, men ikke oplag."
+2;"Oplag";1;"Hvor der er givet tilladelse til oplag af fyrværkeri, men ikke salg til privatpersoner."
+3;"Salg og oplag";1;"Hvor der både må sælges og have oplag af fyrværkeri."
+8;"Andet";1;"Hvor ovenstående ikke dækker, men der er behov for at kunne registrere noget."
+9;"Ukendt";1;"I tilfældet af det er ukendt/uklart hvad der er givet tilladelse til. Bør kun være historiske"

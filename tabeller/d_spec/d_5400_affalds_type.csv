@@ -1,0 +1,6 @@
+"affaldstype_kode";"affaldstype";"aktiv";"begrebsdefinition"
+1;"Storskrald";1;"Storskrald hentet ved borgeren"
+2;"Dagrenovation";1;"Dagrenovation"
+3;"Haveaffald";1;"Grønt affald til kompost hentet ved borgeren. Ej fødevare."
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Ukendt"

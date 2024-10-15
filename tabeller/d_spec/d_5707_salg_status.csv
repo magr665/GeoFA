@@ -1,0 +1,7 @@
+"salg_status_kode";"salg_status";"aktiv";"begrebsdefinition"
+1;"Til salg";1;"Grund til salg"
+2;"Reserveret";1;"Grund reserveret"
+3;"Solgt";1;"Grund solgt"
+4;"Fremtidig";1;"Planlægges sat til salg"
+8;"Andet";1;"Hvor andre salgstyper ikke er dækkende"
+9;"Ukendt";1;"Ukendt"

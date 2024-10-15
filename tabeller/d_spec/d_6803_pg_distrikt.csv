@@ -1,0 +1,7 @@
+"pg_distrikt_kode";"pg_distrikt";"aktiv";"begrebsdefinition"
+1;"Udbudsområde";1;"Området der er udbudt"
+2;"Fag-entreprise";1;"Entrepriseområdet, som kun dække et meget lille fagområde. F.eks. beskæring af træer."
+3;"Geografisk entreprise";1;"Entrepriseområdet, som dækker et stort fagområde, men hvor kommunen typiske er inddelt i flere områder/distrikter med forskellige entreprenører. Kan også benyttes til inddelingen efter hvor et område plejes fra (fx hvilken materielgård, når det er kommunens egne folk, der står for opgaven)."
+4;"Arbejdssted";1;"Også kaldt arbejdsområde. Typisk et mindre område som en park eller en skole."
+8;"Andet";1;"Hvor andet ikke er dækkende."
+9;"Ukendt";1;"Mangler viden om typen."

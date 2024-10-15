@@ -1,0 +1,5 @@
+"vandl_type_kode";"vandl_type";"aktiv";"begrebsdefinition"
+1;"Almindelig";1;"Åbent vandløb"
+2;"Rørlagt";1;"Administrativ registrering af rørlagt forløb. Kan registreres, hvor myndigheden mener, at registreringen har funktionsmæssig betydning for vandløbsnetværket."
+3;"Gennem sø";1;"Fiktiv VANDLØBSMIDTE gennem SØ"
+4;"Link";1;"Fiktiv VANDLØBSMIDTE som forbinder vandløbene i et vandløbsnetværk, hvor vandløbet ikke går gennem"

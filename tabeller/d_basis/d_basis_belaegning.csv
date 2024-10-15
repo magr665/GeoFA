@@ -1,0 +1,6 @@
+"belaegning_kode";"belaegning";"aktiv";"begrebsdefinition"
+1;"Fast belægning";1;"Fast belægning, som fx asfalt, brolægning og beton"
+2;"Løs belægning";1;"Løs belægning, som fx perlesten, stenmel"
+3;"Uden belægning";1;"Uden belægning, som fx natursti, skovsti og trampet sti, strand."
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Mangler viden om belægning"

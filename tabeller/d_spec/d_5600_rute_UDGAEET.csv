@@ -1,0 +1,7 @@
+"rute_kode";"rute";"aktiv";"begrebsdefinition"
+1;"Klasse I rute";1;"Veje som har afgørende betydning for fjerntrafikken."
+2;"Klasse II rute";1;"Veje som har betydning for fjerntrafikken og/eller afgørende betydning for afvikling af den gennemkørende trafik."
+3;"Klasse III rute";1;"Veje som har betydning for afvikling af den gennemkørende og/eller kollektive trafik, eller afgørende betydning forafvikling af den lokale nærtrafik."
+4;"Klasse IV rute";1;"Veje som har betydning for afvikling af den lokale nærtrafik."
+5;"Klasse V rute";1;"Veje som har mindre betydning for afvikling af trafikken."
+6;"Klasse VI rute";1;"Veje som betjener enkeltbruger områder og mindre boligveje."

@@ -1,0 +1,4 @@
+"plantype_k";"plantype";"aktiv";"begrebsdefinition"
+1;"Planlagt ruteforløb";1;"Når et ruteforløb planlægges mellem to punkter, vil ruten betragtes som et planlagt ruteforløb."
+2;"Alternativ ruteforløb";1;"Hvis der arbejdes med flere linjeføringer, kan disse dele af ruten markeres som alternativer."
+3;"Perspektivrute";1;"Endeligt kan der være ruteforløb, som er ønskede, men som har en afhængighed f.eks. til en bevilling til en bro eller andre forudsætninger for rutens forløb - sådanne ruteforløb kan markeres som perspektivruter"

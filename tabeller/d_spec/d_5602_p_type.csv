@@ -1,0 +1,8 @@
+"p_type_kode";"p_type";"aktiv";"begrebsdefinition"
+1;"Betalingszone";1;"Parkering i zonen tilladt mod betaling"
+2;"Betalingsfri zone";1;"Parkering i zonen tilladt uden betaling, men så typiske tidsbegrænset og/eller kun på afmærket pladser."
+3;"Beboerparkering";1;"Parkering i zonen på privat ejendom tiltænkt beboere m.v."
+4;"Erhvervsparkering";1;"Parkering i zonen på privat ejendom tiltænkt kontorfolk m.v."
+5;"P-licens";1;"Parkering i zonen med parkeringslicens. F.eks. Beboerlicens."
+98;"Andet";1;"Hvor ovenstående ikke dækker."
+99;"Ukendt";1;"Hvor der mangler viden om zonetype."

@@ -1,0 +1,6 @@
+"fors_omr_type_kode";"fors_omr_type";"aktiv";"begrebsdefinition"
+1;"Nuværende forsyningsområde";1;"Det område som vandværket forsyner i dag, udgøres af det område hvor der er nedgravet ledningsnet."
+2;"Naturlig forsyningsområde";1;"Flade som er dækker det område hvor der er ledningsnet. I begrebet ligger, at det er et område som vandværker med sin nuværende kapacitet forventes umiddelbart at kunne forsyne."
+3;"Fremtidige forsyningsområde";1;"Det område som et vandværk må påregne at skulle forsyne inden for planperioden, når det er fuldt udbygget"
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Ukendt"

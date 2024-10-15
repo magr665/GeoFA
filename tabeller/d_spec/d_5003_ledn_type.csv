@@ -1,0 +1,6 @@
+"ledn_type_kode";"ledn_type";"aktiv";"begrebsdefinition"
+1;"Ler";1;"Typiske røde lerrør der er meget korte."
+2;"Plast";1;"Typisk plastrør med riller/folder og mange små huller, så de er bøjelige."
+3;"Beton";1;"Typiske støbte betonrør i 1-2 meter længde."
+8;"Andet";1;"Materiale hvor andet ikke er dækkende."
+9;"Ukendt";1;"Fået oplyst der er et dræn, men materialet er ukendt. Typisk fra borger eller gammelt register."

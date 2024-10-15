@@ -1,0 +1,7 @@
+"gs_type_kode";"gs_type";"aktiv";"begrebsdefinition"
+1;"Genbrugsplads";1;"Større indhegnet område hvor borgere aflevere affald sorteret efter type. Typiske direkte i container."
+2;"Affaldsø";1;"Mindre område hvor borgere kan aflevere mindre mænge af sorteret affald - Glas, papir og evt. metal."
+3;"Fyldplads";1;"Områder der fyldes op med begrænset former for affald f.eks. i gammel grusgrav eller ved havneudvidelser."
+4;"Komposteringssanlæg";1;"Anlæg hvor haveaffald m.v. komposteres til jord."
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Ukendt"

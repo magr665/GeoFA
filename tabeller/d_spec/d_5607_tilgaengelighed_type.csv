@@ -1,0 +1,6 @@
+"tilgaengelighed_type_kode";"tilgaengelighed";"aktiv";"begrebsdefinition"
+1;"Offentligt tilgængelig";1;"En ladefacilitet eller en tankstation til forsyning med et alternativt drivmiddel, som giver ikkediskriminerende adgang for brugere. Ikkediskriminerende adgang kan omfatte forskellige vilkår for godkendelse, anvendelse og betaling."
+2;"Privat ladestander";1;"En ladefacilitet eller en tankstation, som ejes af privatejer eller virksomhed og som giver en eksklusiv ret til ejer samt evt. ansatte i virksomhed"
+3;"Kommunal bilflåde";1;"En ladefacilitet eller en tankstation, som ejes af kommune og som giver en eksklusiv ret til ”en kommunale bilflåde”"
+4;"Statslig bilflåde";1;"En ladefacilitet eller en tankstation, som ejes af statslig myndighed og som giver en eksklusiv ret til den statslige bilflåde"
+5;"Semioffentlig tilgængelig";1;"”Semioffentlig tilgængelig” indikerer, at der er et tilhørsforhold mellem elbilist og stedet, fx ansatte i virksomhed eller  hotelgæster"

@@ -1,0 +1,6 @@
+"depot_type_kode";"depot_type";"aktiv";"begrebsdefinition"
+1;"Forurenet jord";1;"Jord som er gravet op for at fjerne forurenet jord fra en grund."
+2;"Oprensningsjord mv. fra akut forurening";1;"Jord der er gravet for at begrænse skader virkningerne ved en akut forurening"
+3;"Slam mv. til udbringning";1;"Spildevandsslam m.v. som opbevares alene med henblik på udbringning."
+8;"Andet";1;"Hvis ovenstående ikke er dækkende."
+9;"Ukendt";1;"Hvis det er uklart/ukendt hvad depotet er blevet brugt til."

@@ -1,0 +1,4 @@
+"finans_k";"finans";"aktiv";"begrebsdefinition"
+1;"Bevilling";1;"Hvis der allerede er afsat penge til ruten, vælges 'bevilling'."
+2;"Budgetsat";1;"Hvis der ikke allerede er afsat penge til rutens realisering, men hvis ruten indgår i en fremtidig budgetpost, vælges 'budgetsat'."
+3;"Ikke-bevilliget eller budgetsat";1;"Hvis der ikke allerede er afsat penge til rutens realisering, og hvis ruten ikke indgår i en fremtidig budgetpost, vælges 'ikke bevilget eller budgetsat'."

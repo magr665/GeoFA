@@ -1,33 +1,29 @@
 import requests
 import pandas as pd
 """
-Dette script henter vejnavne fra Dataforsyningens API baseret på en given kommunekode og gemmer dem i en CSV-fil.
-Moduler:
-    requests: Håndterer HTTP-anmodninger for at hente data fra API'et.
-    pandas: Bruges til at manipulere og analysere dataene.
+Dette script henter vejstykker fra DAWA API baseret på en given kommunekode og gemmer resultaterne i en CSV-fil.
+Kommunekoden kan være en enkelt kode eller flere koder adskilt af '|'.
+Hvis kommunekoden er '0000', hentes alle vejstykker.
+
 Variabler:
-    kommunekode (str): Kommunekoden for den ønskede kommune.
-    url (str): URL til Dataforsyningens API med den specificerede kommunekode.
-    response (requests.Response): HTTP-respons fra API'et.
-    vejstykker (list): Liste over vejstykker hentet fra API'et.
-    vejnavne (list): Liste over vejnavne og tilhørende data.
-    df (pandas.DataFrame): DataFrame, der indeholder de behandlede vejnavne og tilhørende data.
-Funktioner:
-    Ingen funktioner defineret.
-Arbejdsgang:
-    1. Hent vejstykker fra Dataforsyningens API baseret på den angivne kommunekode.
-    2. Ekstraher relevante data fra hvert vejstykke og opret en liste over vejnavne.
-    3. Opret en pandas DataFrame fra listen over vejnavne.
-    4. Tilføj en kolonne, der tæller forekomsten af hvert vejnavn.
-    5. Hvis et vejnavn forekommer mere end én gang, tilføj postnumre til vejnavnet.
-    6. Fjern tællekolonnen og sorter DataFrame efter vejnavn.
-    7. Gem DataFrame som en CSV-fil med navnet 'd_vejnavne.csv'.
+- kommunekode: Streng, der indeholder en eller flere kommunekoder adskilt af '|'.
+- url: Streng, der indeholder API URL'en til at hente vejstykker.
+- response: Response objekt fra requests biblioteket, der indeholder API svaret.
+- vejstykker: Liste af vejstykker hentet fra API'et.
+- vejnavne: Liste af vejnavne med tilhørende informationer.
+- df: DataFrame, der indeholder de hentede vejnavne og deres informationer.
+
 Output:
-    En CSV-fil med vejnavne og tilhørende data, gemt som 'd_vejnavne.csv'.
+- CSV-fil 'd_vejnavn.csv', der indeholder de hentede vejnavne og deres informationer.
 """
 
-kommunekode = '0665' ########### indtal kommunekode her ###########
-url = f"https://api.dataforsyningen.dk/vejstykker?kommunekode={kommunekode}"
+kommunekode = '0665|0671' # Indtast kommunekode her, hvis 0000 så bliver alle vejstykker hentet
+# der kan indtastes flere kommunekoder adskilt af |, f.eks. "0101|0147" for København og Frederiksberg
+# Hent data fra DAWA
+url = f"https://api.dataforsyningen.dk/vejstykker"
+if kommunekode != '0000':
+    url += f"?kommunekode={kommunekode}"
+
 response = requests.get(url)
 vejstykker = response.json()
 
@@ -39,8 +35,9 @@ for vej in vejstykker:
             'vejnavn': vej['navn'],
             'adresseringsnavn': vej['adresseringsnavn'],
             'vejkode0': vej['kode'],
-            'cvf_vejkode': f"{int(kommunekode)}{vej['kode']}",
-            'kommunekode': int(kommunekode),
+            'cvf_vejkode': f"{vej['kommune']['kode']}{vej['kode']}",
+            'kommunekode': vej['kommune']['kode'],
+            'kommunenavn': vej['kommune']['navn'],
             }
     postnumre = []
     for postnummer in vej['postnumre']:
@@ -53,4 +50,4 @@ df['vejnavn_count'] = df['vejnavn'].map(df['vejnavn'].value_counts())
 df['vejnavn'] = df.apply(lambda row: f"{row['vejnavn']} ({row['postnumre']})" if row['vejnavn_count'] > 1 else row['vejnavn'], axis=1)
 df.drop(columns=['vejnavn_count'], inplace=True)
 df.sort_values(by='vejnavn', inplace=True)
-df.to_csv('d_vejnavne.csv', index=False, encoding='utf-8', sep=';', quotechar='"', quoting=2)
+df.to_csv('d_vejnavn.csv', index=False, encoding='utf-8', sep=';', quotechar='"', quoting=2)

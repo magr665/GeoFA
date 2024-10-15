@@ -1,0 +1,7 @@
+"kategori_k";"kategori";"aktiv";"begrebsdefinition"
+1;"Lokal";1;"En lokal rute er planlagt af en eller flere kommuner. Den lokale cykelrute er typisk beregnet til udflugts- eller hverdagsture, dvs. kortere rundture eller direkte ture mellem bolig og arbejdsplads / skole / indkøbsmuligheder. Bedre definition til at den passer til både vandre-, cykler og rideruter."
+2;"Regional";1;"En regional rute forløber gennem flere kommuner. Den regionale rute er typisk lidt længere end beregnet til en dagstur."
+3;"National";1;"En national rute er af national betydning, går gennem flere landsdele (for cykelruter mindst 200 km lang)."
+7;"Ej relevant";1;"Ikke relevant for dette objekt."
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Mangler viden om kategori"

@@ -1,0 +1,6 @@
+"hastighed_art_kode";"hast_art";"aktiv";"begrebsdefinition"
+1;"Begrænsning";1;"Den angivne hastighed er den maksimalt tilladte hastighed"
+2;"Anbefalet";1;"Den angvine hastighed er en anbefaling (typisk de ”blå skilte”)"
+3;"Minimum";1;"Den angivne hastighed er en minimumsgrænse - anvendes typisk på motorvej / motortrafikvej, men ses også i andre sammenhænge"
+8;"Andet";1;"Hvor ovenstående ikke dækker."
+9;"Ukendt";1;"Hvor der mangler viden"

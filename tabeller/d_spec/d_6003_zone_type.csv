@@ -1,0 +1,7 @@
+"zone_type_kode";"zone_type";"aktiv";"begrebsdefinition"
+300;"Drikkevandsboring (300m)";1;"Vandindvindings boring, der benyttes til helt eller delvis benyttes til drikkevand - eller til noget der skal have drikkevandskvalitet."
+150;"Anden boring (150m)";1;"Vandindvindingsboring, der ikke benyttes til drikkevand eller til noget der skal have drikkevandskvalitet."
+50;"Almen vandforsyningsboring (50m)";1;"50 m zoner om almen vandforsyningsboring."
+25;"Almen vandforsyningsboring (25m)";1;"25 m zoner om almen vandforsyningsboring."
+10;"Almen vandforsyningsboring (10m)";1;"10 m zoner"
+1;"Beregnet beskyttelseszone";1;"Beskyttelseszone der er beregnet"

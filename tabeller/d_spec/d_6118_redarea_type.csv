@@ -1,0 +1,7 @@
+"redarea_type_kode";"redarea_type";"aktiv";"begrebsdefinition"
+1;"Brandvej";1;"Adgangsvej der skal være fri passage til brandbiler m.v."
+2;"-";0;"-"
+3;"-";0;"-"
+4;"Redningsareal";1;"Krav i bygningsreglement (Energistyrelsen) areal hvor der kan sættes en 30 m drejestige op - det er krav hvor bygninger er mere en 9,6 m over terræn svarende til mere end tre etager."
+8;"Andet";1;"Hvor ovenstående ikke er dækkende."
+9;"Ukendt";1;"Mangler viden om typen af adgangsvej"

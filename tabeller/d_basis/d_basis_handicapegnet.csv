@@ -1,0 +1,6 @@
+"handicapegnet_kode";"handicapegnet";"aktiv";"begrebsdefinition"
+1;"Handicapegnet";1;"Faciliteten er egnet for handicappede"
+2;"Delvist handicapegnet";1;"Faciliteten er delvist egnet for handicappede, fx kørestolsegnet, men intet handicaptoilet."
+3;"Ikke handicapegnet";1;"Faciliteten er ikke egnet for handicappede"
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Mangler viden om egnethed for handicappede."

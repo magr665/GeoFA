@@ -1,0 +1,6 @@
+"lag_type_kode";"lag_type";"aktiv";"begrebsdefinition"
+1;"Digelag";1;"Sammenslutning (gruppe) af ejendomme (jordejere), der er fælles om et dige."
+2;"Landvindingslag";1;"Sammenslutning (gruppe) af ejendomme (jordejere), der er fælles om et dige og pumpeanlæg. I forbindelse med tørlægning af en fjord eller sø. Typiske til landbrugsjord."
+3;"Pumpelag";1;"Sammenslutning (gruppe) af ejendomme (jordejere), der er fælles om et (afvandings)-pumpeanlæg."
+8;"Andet";1;"Hvor ovenstående valgmuligheder ikke passer."
+9;"Ukendt";1;"Mangler viden om lagtype."

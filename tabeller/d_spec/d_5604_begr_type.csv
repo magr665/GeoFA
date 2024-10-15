@@ -1,0 +1,8 @@
+"begr_type_kode";"begr_type";"aktiv";"begrebsdefinition"
+1;"Gågadekørsel";1;"Kørsel med bil og cykel er forbudt som hovedreglen, men tilladt i korte tidsrum af døgnet til f.eks. varekørsel m.v. til områdets butikker."
+2;"Varekørsel";1;"Kun varekørsel til området tilladt"
+3;"Sæsonkørsel";1;"Kun kørsel i en bestemt sæson - f.x. kørsel på strand i sommerperioden"
+4;"Lastbilkørsel";1;"Begrænset højde, bredde eller befæstelse der hindrer store/tunge køretøjers færdsel"
+5;"Gennemkørselsforbud";1;"Strækningen har et generelt gennemførselsforbud"
+8;"Andet";1;"Hvor ovenstående ikke er dækkende"
+9;"Ukendt";1;"Mangler viden om begrænsningen"

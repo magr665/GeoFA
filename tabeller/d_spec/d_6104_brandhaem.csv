@@ -1,0 +1,8 @@
+"brandhaem_kode";"brandhaem";"aktiv";"begrebsdefinition"
+1;"Automatisk brandalarm";1;"Anlæg der automatiske opdager brand."
+2;"Brandhæmmende gas";1;"Gas der kvæler ilden ved at reducere iltindholdet i luften og nedkøle. Hvis denne indgår i en kombination vælges denne."
+3;"Sprinkleranlæg";1;"Anlæg der sprøjter ud over rummet/inde i bygningen det er opsat i. Hvis der også der automatisk brandalarm, så vælges denne."
+4;"-";0;"-"
+5;"-";0;"-"
+8;"Andet";1;"Hvis ovenstående ikke dækker."
+9;"Ukendt";1;"Hvis der mangler viden om hvilket anlæg der er tale om."

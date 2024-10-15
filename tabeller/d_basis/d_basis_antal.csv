@@ -1,0 +1,7 @@
+"antal_kode";"antal";"aktiv";"begrebsdefinition"
+0;"0";1;"Ingen"
+1;"1-9";1;"Mellem 1 og 9"
+2;"10-99";1;"Mellem 10 og 99"
+3;"100+";1;"Over 100 stk"
+8;"Andet";1;"Andet"
+9;"Ukendt";1;"Mangler viden om antal"

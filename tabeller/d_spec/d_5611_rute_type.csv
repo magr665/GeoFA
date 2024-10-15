@@ -1,0 +1,5 @@
+"rute_type_kode";"rute_type";"aktiv";"begrebsdefinition"
+1;"vej";1;"Vintervedligehold udføres kun på vej (bilers kørebane)"
+2;"sti";1;"Vintervedligehold udføres kun på sti (cykelsti i eget tracé og cykelsti med kantsten/rabat mod vej)"
+3;"Serviceområde";1;"Vintervedligehold af trapper, busstoppesteder m.m. (manuel rydning)"
+9;"Andet";1;"Anvendes hvor anden kode ikke er relevant - eller hvis angivelse ikke er relevant i det konkrete tilfælde"

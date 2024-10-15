@@ -1,0 +1,6 @@
+"risikotype_kode";"risikotype";"aktiv";"begrebsdefinition"
+1;"Kolonne 2 virksomhed";1;"virksomheder med lidt mindre oplag af farlige stoffer end kolonne 3 virksomheder"
+2;"Kolonne 3 virksomhed";1;"virksomheder med meget store oplag af farlige stoffer"
+3;"Brandsynspligtige  virksomhed";1;"1) Brandfarlige virksomheder og oplag m.v., der er omfattet af § 34 i beredskabsloven. 2) Bygninger, m.v., der er omfattet af § 35, stk. 1 og 3, i beredskabsloven. 3) Fredede bygninger, bortset fra statuer, mindestøtter, springvand, hegnsmure og lignende."
+8;"Andet";1;"Hvis ovenstående ikke dækker."
+9;"Ukendt";1;"Hvis der mangler viden om hvilket anlæg der er tale om."
